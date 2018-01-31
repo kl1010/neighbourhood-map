@@ -1,0 +1,17 @@
+#map {
+    height: 97.2vh;
+    width: 100%;
+}
+#all-locations{
+    top:25vh;
+    background-color: rgba(230,230,230,0.9);
+    padding: 30px;
+    position: absolute;
+    max-height: 500px;
+    overflow:auto;
+}
+#errorMessage{
+    z-index: 5;
+    top: 25rem;
+    left:50rem;
+}
