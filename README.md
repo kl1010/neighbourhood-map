@@ -14,4 +14,4 @@ You can either Use this app Locally by cloning it  and creating virtual env, do 
 OR
 
 You can use this at 
-udacity.kapil.cc
+http://udacity.kapil.cc
