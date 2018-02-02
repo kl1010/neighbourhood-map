@@ -1,3 +1,5 @@
+// List our Locations
+// TODO: Make this List come from a database
 var LocationList = [
     {
         name:"Kathmandu Kitchen and Grill",
